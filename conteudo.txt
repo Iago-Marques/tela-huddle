@@ -1,0 +1,15 @@
+﻿
+cores - Violet: hsl(257, 40%, 49%)
+- Soft Magenta: hsl(300, 69%, 71%)
+
+fonte 1 popins
+
+fonte body open sans
+
+tamanho max 1440px para mobile 375px
+
+conteudo 
+
+Build a community your fans will love
+
+Huddle reinvents the way we build communities. You have a voice, but so does your audience. Build connections with your users while engaging in genuine discussions. Sign up
