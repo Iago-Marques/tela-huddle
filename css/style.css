@@ -5,7 +5,7 @@
 }
 
 html{
-   font-size: 62.8%;
+   font-size: 62.5%;
 }
 
 body{
@@ -22,7 +22,7 @@ body{
    background-position: right;
    max-width: 144rem;
    margin: 0 auto;
-   height: 100vh;
+   min-height: 100vh;
 }
 
 .logo{
@@ -71,6 +71,8 @@ button{
    color: var(--body);
    box-shadow: 5px 5px 5px #00000050;
    cursor: pointer;
+   position: relative;
+   
 }
 
 button:hover{
